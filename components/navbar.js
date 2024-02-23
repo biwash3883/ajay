@@ -13,7 +13,7 @@ const Navbar = () => {
   ];
 
   return (
-    <div className="w-full sticky top-0 bg-white dark:bg-primary shadow-md z-15">
+    <div className="w-full sticky top-0 bg-white dark:bg-primary shadow-md z-50">
       <nav className="container relative flex flex-wrap items-center justify-between p-8 mx-auto lg:justify-between xl:px-0">
         {/* Logo  */}
         <Disclosure>

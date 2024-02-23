@@ -111,7 +111,7 @@ const Services = () => {
                     />
                   </div>
                 </div>
-                <div className="p-6 z-10 w-full dark:text-white">
+                <div className="p-6 z-5 w-full dark:text-white">
                   <p className="mb-2 inline-block text-tg text-center w-full text-xl font-sans font-semibold leading-snug tracking-normal antialiased">
                     {service.title}
                   </p>
